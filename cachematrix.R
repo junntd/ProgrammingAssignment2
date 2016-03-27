@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This functions return the inverse of an invertible matrix, in case the inverse is already cached before, it returns from cached file
 
 ## Write a short comment describing this function
 
